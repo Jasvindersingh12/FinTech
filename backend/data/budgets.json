@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Housing",
+    "spent": 2500,
+    "limit": 3000,
+    "percentage": 166.67,
+    "color": "bg-indigo-600"
+  },
+  {
+    "category": "Food & Dining",
+    "spent": 485.45,
+    "limit": 500,
+    "percentage": 97.09,
+    "color": "bg-red-600"
+  },
+  {
+    "category": "Transportation",
+    "limit": 500,
+    "percentage": 111.25,
+    "color": "bg-cyan-600"
+  },
+  {
+    "category": "Utilities",
+    "limit": 250,
+    "percentage": 200.0,
+    "color": "bg-amber-600"
+  },
+  {
+    "category": "Entertainment",
+    "limit": 1500,
+    "percentage": 200.0,
+    "color": "bg-amber-600"
+  },
+  {
+    "category": "Emergency Fund",
+    "limit": 500
+  },
+  {
+    "category": "xyz",
+    "limit": 500
+  }
+]
